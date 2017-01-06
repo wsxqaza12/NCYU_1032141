@@ -1,3 +1,5 @@
+<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css" rel="stylesheet" integrity="sha384-h21C2fcDk/eFsW9sC9h0dhokq5pDinLNklTKoxIZRUn3+hvmgQSffLLQ4G4l2eEr" crossorigin="anonymous">
+
 # 登革熱
 登革熱（Dengue fever），是一種由登革病毒所引起的急性傳染病，這種病毒會經由蚊子傳播給人類。並且依據不同的血清型病毒，分為Ⅰ、Ⅱ、Ⅲ、Ⅳ四種型別，而每一型都具有能感染致病的能力。
 患者感染到某一型的登革病毒，就會對那一型的病毒具有終身免疫，但是對於其他型別的登革病毒僅具有短暫的免疫力，還是有可能再感染其他血清型別病毒。
