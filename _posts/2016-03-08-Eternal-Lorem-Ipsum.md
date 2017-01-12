@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+title: 登革熱基本資料
+author: 黃琪婕
 ---
 介紹登革熱
-## The Eternal Lorem Ipsum? 
+疾病資訊、傳播方式、潛伏期、發病症、預防方法、治療方法等
 -----
 
 <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cosmo/bootstrap.min.css" rel="stylesheet" integrity="sha384-h21C2fcDk/eFsW9sC9h0dhokq5pDinLNklTKoxIZRUn3+hvmgQSffLLQ4G4l2eEr" crossorigin="anonymous">
